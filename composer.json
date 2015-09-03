@@ -1,0 +1,27 @@
+{
+  "name": "maxlord/yii2-jsviews",
+  "description": "Yii2 JsViews Integration",
+  "keywords": [
+	"jsviews",
+	"asset",
+	"template",
+	"yii2",
+	"yii"
+  ],
+  "type": "yii2-extension",
+  "license": "Apache",
+  "authors": [
+	{
+	  "name": "Maxim Kuleshov",
+	  "email": "kuleshov.maxim@gmail.com"
+	}
+  ],
+  "require": {
+	"bower-asset/jsviews": "*"
+  },
+  "autoload": {
+	"psr-4": {
+	  "maxlord\\jsviews\\": ""
+	}
+  }
+}
