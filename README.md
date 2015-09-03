@@ -22,7 +22,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist maxlord/yii2-jsviews
+php composer.phar require --dev maxlord/yii2-jsviews
 ```
 
 or add

@@ -14,14 +14,13 @@
 	"issues": "https://github.com/maxlord/yii2-jsviews/issues",
 	"source": "https://github.com/maxlord/yii2-jsviews"
   },
-  "minimum-stability": "stable",
-  "prefer-stable": true,
   "authors": [
 	{
 	  "name": "Maxim Kuleshov",
 	  "email": "kuleshov.maxim@gmail.com"
 	}
   ],
+  "minimum-stability": "stable",
   "require": {
 	"bower-asset/jsviews": "*"
   },
