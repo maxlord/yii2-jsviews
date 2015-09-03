@@ -1,6 +1,7 @@
 {
   "name": "maxlord/yii2-jsviews",
   "description": "Yii2 JsViews Integration",
+  "version": "1.0.0",
   "keywords": [
 	"jsviews",
 	"asset",
@@ -10,6 +11,11 @@
   ],
   "type": "yii2-extension",
   "license": "Apache",
+  "support": {
+	"issues": "https://github.com/maxlord/yii2-jsviews/issues",
+	"source": "https://github.com/maxlord/yii2-jsviews"
+  },
+  "minimum-stability": "dev",
   "authors": [
 	{
 	  "name": "Maxim Kuleshov",
