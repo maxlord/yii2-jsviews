@@ -1,2 +1,2 @@
 # yii2-jsviews
-Asset for user jsviews in yii2 applications
+Asset for use jsviews in yii2 applications
