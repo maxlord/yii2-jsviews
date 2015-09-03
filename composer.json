@@ -21,7 +21,7 @@
 	  "email": "kuleshov.maxim@gmail.com"
 	}
   ],
-  "require-dev": {
+  "require": {
 	"bower-asset/jsviews": "*"
   },
   "autoload": {
