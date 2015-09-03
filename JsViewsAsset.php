@@ -5,9 +5,7 @@ use yii\web\AssetBundle;
 use yii\web\View;
 
 /**
- * Подключение ресурсов, необходимых для работы JsViews
- *
- * @package frontend\assets
+ *  Asset Bundle for use JsViews
  */
 class JsViewsAsset extends AssetBundle {
 	public $sourcePath = '@bower/jsviews';
