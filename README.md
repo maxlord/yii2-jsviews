@@ -1,7 +1,7 @@
 JsViews Extension for Yii 2
 =======================
 
-This is the JsViews extension for [Yii framework 2.0](http://www.yiiframework.com){:target="_blank"}.
+This is the JsViews extension for [Yii framework 2.0](http://www.yiiframework.com)}.
 It encapsulate [JsViews library](http://www.jsviews.com) as Asset Bundle,
 and help using JsViews in Yii applications. 
 
