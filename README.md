@@ -9,11 +9,10 @@ For license information check the [LICENSE](LICENSE.txt)-file.
 
 Documentation is at [README.md](README.md).
 
-[![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
-[![Latest Stable Version](https://poser.pugx.org/leandrogehlen/yii2-querybuilder/v/stable.png)](https://packagist.org/packages/leandrogehlen/yii2-querybuilder)
-[![Build Status](https://scrutinizer-ci.com/g/leandrogehlen/yii2-querybuilder/badges/build.png?b=master)](https://scrutinizer-ci.com/g/leandrogehlen/yii2-querybuilder/build-status/master)
-[![Code Climate](https://codeclimate.com/github/leandrogehlen/yii2-querybuilder/badges/gpa.svg)](https://codeclimate.com/github/leandrogehlen/yii2-querybuilder)
-[![Total Downloads](https://poser.pugx.org/leandrogehlen/yii2-querybuilder/downloads.png)](https://packagist.org/packages/leandrogehlen/yii2-querybuilder)
+[![Latest Stable Version](https://poser.pugx.org/maxlord/yii2-jsviews/v/stable)](https://packagist.org/packages/maxlord/yii2-jsviews) 
+[![Total Downloads](https://poser.pugx.org/maxlord/yii2-jsviews/downloads)](https://packagist.org/packages/maxlord/yii2-jsviews) 
+[![Latest Unstable Version](https://poser.pugx.org/maxlord/yii2-jsviews/v/unstable)](https://packagist.org/packages/maxlord/yii2-jsviews) 
+[![License](https://poser.pugx.org/maxlord/yii2-jsviews/license)](https://packagist.org/packages/maxlord/yii2-jsviews)
 
 Installation
 ------------
