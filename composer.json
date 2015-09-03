@@ -21,6 +21,7 @@
 	}
   ],
   "minimum-stability": "stable",
+  "stability": "stable",
   "require": {
 	"bower-asset/jsviews": "*"
   },
