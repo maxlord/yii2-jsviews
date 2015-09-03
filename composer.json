@@ -1,7 +1,6 @@
 {
   "name": "maxlord/yii2-jsviews",
   "description": "Yii2 JsViews Integration",
-  "version": "1.0.0",
   "keywords": [
 	"jsviews",
 	"asset",
@@ -15,14 +14,14 @@
 	"issues": "https://github.com/maxlord/yii2-jsviews/issues",
 	"source": "https://github.com/maxlord/yii2-jsviews"
   },
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "authors": [
 	{
 	  "name": "Maxim Kuleshov",
 	  "email": "kuleshov.maxim@gmail.com"
 	}
   ],
-  "require": {
+  "require-dev": {
 	"bower-asset/jsviews": "*"
   },
   "autoload": {
